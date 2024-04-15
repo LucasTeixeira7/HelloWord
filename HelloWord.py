@@ -16,9 +16,9 @@ print (x)
 print (X)
 print (xX)
 
-x = str(9)
-y = int(9)
-z = float(9)
+x = str(8)
+y = int(8)
+z = float(8)
 
 print(type(x))
 print(type(y))
